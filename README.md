@@ -37,7 +37,10 @@ And there is, you installed my Custom Dropper. 🎉🎉🎉🎉🎉🎉
 ## What is new/changed in this script?
 
 - 💡Now supports custom ammunitions.
+
 - 💡I added a way to hide the ammunition dropped. You just need to put in the chat ``hidedropammo``.
+
+- ⚠️This use a custom entity, so, you need to restart the map for it to work properly.
 
 ## Credits
 
