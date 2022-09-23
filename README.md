@@ -42,6 +42,8 @@ And there is, you installed my Custom Dropper. 🎉🎉🎉🎉🎉🎉
 
 - ⚠️This use a custom entity, so you need to restart the map for it to work properly.
 
+- ⚠️This shit can cause lag x[. Every time an ammo box is created, it can cause some lag.
+
 ## Credits
 
 * Base of this code [Cubemath Dropper plugin](https://github.com/CubeMath/UCHFastDL2/blob/master/svencoop/scripts/plugins/cubemath/Dropper.as)
